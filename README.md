@@ -6,10 +6,6 @@ Dependency
 Java
 Maven
 
-###libraries used
-Selenium
-TestNG
-log4j
-Extent Reports
+
 
 
